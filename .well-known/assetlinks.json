@@ -6,4 +6,14 @@
     "sha256_cert_fingerprints":
     ["22:77:AC:D3:91:89:75:01:24:2A:C4:40:AD:57:87:24:F6:90:A9:55:57:77:58:40:8A:FE:E6:7D:B5:5D:F7:26"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.frederaik86.footballagency",
+    "sha256_cert_fingerprints":
+    ["2E:4B:4E:97:DA:FC:E1:35:63:8B:2B:A0:C8:9B:2D:8B:EB:A9:6C:0F:6C:7D:EA:F2:3C:25:B7:66:48:AB:8D:7C"]
+  }
 }]
+
